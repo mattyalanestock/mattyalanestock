@@ -1,4 +1,4 @@
-![MattyAlanEstock Nintendo-style Logo](https://raw.githubusercontent.com/mattyalanestock/mattyalanestock/mattyalanestock-patch-1/matty_nintendo.gif)
+![MattyAlanEstock Nintendo-style Logo](https://raw.githubusercontent.com/mattyalanestock/mattyalanestock/main/matty_nintendo.gif)
 
 <!--
 ### Hi there 👋
